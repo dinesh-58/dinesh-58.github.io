@@ -7,7 +7,7 @@ authorImage : "/images/about/profile.jpg"
 ---
 
 Hi! I'm Sujal, a BCA (Bachelor of Computer Application) student & internet-taught developer.
-I get a lot of project ideas, but only start working on a few. You can find them in the portfolio page of this website. 
+I've got a lot of project ideas, but have only started working on a few. You can find them in the portfolio page of this website. 
 My specialties can be found on the homepage, of which most are web development.
 
 I am currently available for part-time/ freelance work. 
