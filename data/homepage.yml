@@ -82,7 +82,7 @@ portfolio:
     - title: Recycling encouragement web-app
       image: /images/portfolio/hexgenius-recycling/user-dash.png
       description: Provide reward points to users for recycling. Points can be exchanged for useful recycled products
-      link: "/portfolio/easy-dmarc"
+      link: "/portfolio/hex-genius"
       tools:
         - html5
         - css3
