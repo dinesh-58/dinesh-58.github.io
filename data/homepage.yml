@@ -89,9 +89,9 @@ portfolio:
         - php
         - sqlite
     - title: CardsQL
-      image: /images/portfolio/cardsQL-legacy/screenshot-add.png
+      image: /images/portfolio/cardsQL-legacy/screenshot-review-after.png
       description: Web app for using flashcards that implements a modified version of the SM-2 algorithm 
-      link: "/portfolio/easy-dmarc"
+      link: "/portfolio/cardsql"
       tools:
         - html5
         - css3
@@ -101,7 +101,7 @@ portfolio:
     - title: AppQuota
       image: /images/portfolio/appQuota/set-limit.jpg
       description: Android app for preventing mindless scrolling
-      link: "/portfolio/easy-dmarc"
+      link: "#"
       tools:
         - kotlin
         - jetpackcompose
