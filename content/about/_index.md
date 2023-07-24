@@ -7,7 +7,10 @@ authorImage : "/images/about/profile.jpg"
 ---
 
 Hi! I'm Sujal, a BCA (Bachelor of Computer Application) student & internet-taught developer.
-I've got a lot of project ideas, but have only started working on a few. You can find them in the portfolio page of this website. 
-My specialties can be found on the homepage, most of which are web development. This site was built with [Hugo](https://gohugo.io/) & the [hugo-developer-portfolio](https://github.com/samrobbins85/hugo-developer-portfolio/) theme.
+I've got a lot of project ideas, but have only started working on a few. 
+You can find them in the portfolio page of this website. My specialties can be 
+found on the homepage, most of which are web development. 
+This site was built with [Hugo](https://gohugo.io/) & the 
+[hugo-developer-portfolio](https://github.com/samrobbins85/hugo-developer-portfolio/) theme.
 
 I am currently available for part-time/ freelance work. 
