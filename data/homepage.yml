@@ -101,7 +101,7 @@ portfolio:
     - title: AppQuota
       image: /images/portfolio/appQuota/set-limit.jpg
       description: Android app for preventing mindless scrolling
-      link: "#"
+      link: "/portfolio/appquota"
       tools:
         - kotlin
         - jetpackcompose
