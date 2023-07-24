@@ -2,17 +2,23 @@
 title = "{{ replace .Name "-" " " | title }}"
 date = {{ .Date }}
 draft = true
-categories = ["web-dev"]     # Possible values: hackathon, web-dev
-# coders = ["dinesh-58"]     # if multiple, separate with comma
-# github = ["https://github.com/dinesh-58/appQuota"]
+categories = ["web-dev"]     # Possible values: hackathon, web-dev, mobile. Add in data/portfolio.yml
+# coders = ["dinesh-58"]     # github username of coders other than you. if multiple, separate with comma
+# github = ["https://github.com/dinesh-58/appQuota"]  # can be multiple
 # image = ""
 
-[[tech]]
-# logo = "https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1591793272/logos/logos_javascript_adj1dx.svg"
+#[[tech]]
+# name = "HTML"
+# logo = "/logos/html.svg"
+# url = "#"    # link for the lanugage/tech. 
+
+#[[tech]]
+# name = "CSS"
+# logo = "/logos/css.svg"
+# url = "#"    
+
+#[[tech]]
 # name = "JavaScript"
-# url = "https://www.ecma-international.org/memento/tc39.htm"
+# logo = "/logos/javascript.svg"
+# url = "#"    
 +++
-<!--
-Meant to be used with the hugo-developer-portfolio theme
-The [[tech]] item can be repeated.
--->
