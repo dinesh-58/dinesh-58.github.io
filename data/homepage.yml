@@ -56,14 +56,14 @@ experience:
       company: Google
       duration: November 2019
 hackathons:
-  enable: false
+  enable: true
   item:
     - title: HEX Genius 2023
-      description: Climate change simulator
+      description: Recycling encouragement web-app
       image:  /logos/hexgenius.svg
-      url: none
+      url: /portfolio/hex-genius
     - title: DeerHack 2023
-      description: Climate change simulator
+      description: Hellodoctor | All in one healthcare web-app
       image: /logos/deerhack-small.webp
       url: none
 certifications:
@@ -75,7 +75,7 @@ leadership:
 portfolio:
   enable: true
   filter:
-    # I think this filter only shows items from portfolio site which are labelled web-dev
+    # I dunno why this filter is here
     - label: Web Dev
       value: web-dev
   item: 
