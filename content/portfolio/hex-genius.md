@@ -14,7 +14,7 @@ url = "#"
 
 [[tech]]
 logo = "/logos/sqlite.svg"
-name = "PHP"
+name = "SQLite"
 url = "#"
 +++
 
