@@ -35,7 +35,7 @@ skill:
       description: Preferred language to work with. <br>Learned basics, DOM manipulation, regex matching
     - title: PHP
       logo:  logos/php.svg
-      description: I'd rather use JavaScript but this is my only choice currently for anything related to databases & user accounts.
+      description: I'd rather use JavaScript but currently, this is my only choice for anything related to databases & user accounts.
     - title: C Programming
       logo:  logos/c.svg
       description: 
