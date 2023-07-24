@@ -1,0 +1,7 @@
+filter:
+  - label: Web Dev
+    value: web-dev
+  - label: Hackathon
+    value: hackathon
+  - label: Mobile
+    value: mobile

@@ -1,0 +1,108 @@
+---
+# see documentation if you need parameters for disabled sections : https://github.com/samrobbins85/hugo-developer-portfolio
+banner:
+  title: Hi! I’m Sujal
+social:
+  twitter: ""
+  linkedin: sujal-gurung-55a429257
+  github: dinesh-58
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  hotmail: gurungsujal
+about:
+  enable: true
+  content: BCA student & internet-taught developer
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    # place images in portfolio/static
+    # while linking, use links with portfolio/public as root directory.
+    # eg: place in ../static/logos/css.svg
+    # link to ../public/logos/css.svg
+    # but write link as /logos/c.svg
+    - title: HTML
+      logo:  logos/html.svg
+      description: Learned to write semantic HTML.
+    - title: CSS
+      logo:  logos/css.svg
+      description: Learned styling, flexbox & responsive web design
+    - title: JavaScript
+      logo:  logos/javascript.svg
+      description: Preferred language to work with. <br>Learned basics, DOM manipulation, regex matching
+    - title: PHP
+      logo:  logos/php.svg
+      description: I'd rather use JavaScript but this is my only choice currently for anything related to databases & user accounts.
+    - title: C Programming
+      logo:  logos/c.svg
+      description: 
+    - title: Git & Github
+      logo:  logos/git.svg
+      description: Learned basic workflow of commits, branches & merges by using version control for my own projects.
+    - title: Linux & CLI
+      logo:  logos/linux.svg
+      description: Comfortable with using the terminal for almost all things.
+    - title: Java
+      logo:  logos/java.svg
+      description: God bless JetBrains for replacing this with Kotlin. 
+experience:
+  enable: false
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
+hackathons:
+  enable: false
+  item:
+    - title: HEX Genius 2023
+      description: Climate change simulator
+      image:  /logos/hexgenius.svg
+      url: none
+    - title: DeerHack 2023
+      description: Climate change simulator
+      image: /logos/deerhack-small.webp
+      url: none
+certifications:
+  enable: false
+education:
+  enable: false
+leadership:
+  enable: false
+portfolio:
+  enable: true
+  filter:
+    # I think this filter only shows items from portfolio site which are labelled web-dev
+    - label: Web Dev
+      value: web-dev
+  item: 
+    - title: Recycling encouragement web-app
+      image: /images/portfolio/hexgenius-recycling/user-dash.png
+      description: Provide reward points to users for recycling. Points can be exchanged for useful recycled products
+      link: "/portfolio/easy-dmarc"
+      tools:
+        - html5
+        - css3
+        - php
+        - sqlite
+    - title: CardsQL
+      image: /images/portfolio/cardsQL-legacy/screenshot-add.png
+      description: Web app for using flashcards that implements a modified version of the SM-2 algorithm 
+      link: "/portfolio/easy-dmarc"
+      tools:
+        - html5
+        - css3
+        - javascript
+        - php
+        - sqlite
+    - title: AppQuota
+      image: /images/portfolio/appQuota/set-limit.jpg
+      description: Android app for preventing mindless scrolling
+      link: "/portfolio/easy-dmarc"
+      tools:
+        - kotlin
+        - jetpackcompose
+
