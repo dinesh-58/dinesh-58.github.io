@@ -24,6 +24,12 @@ skill:
     # eg: place in ../static/logos/css.svg
     # link to ../public/logos/css.svg
     # but write link as /logos/c.svg
+    - title: HUGO 
+      logo:  logos/hugo.svg
+      description: Learned to build static sites using HUGO's templating structure
+    - title: Tailwind 
+      logo:  logos/tailwind.svg
+      description: Learned to write CSS in an easier way
     - title: HTML
       logo:  logos/html.svg
       description: Learned to write semantic HTML.
